@@ -467,4 +467,4 @@
 <?php $__env->startSection('scripts'); ?>
 <?php echo app('Illuminate\Foundation\Vite')(['resources/js/pages/dashboard.js']); ?>
 <?php $__env->stopSection(); ?>
-<?php echo $__env->make('layouts.vertical', ['subtitle' => 'Dashboard'], array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH F:\Personal Projects\admin-starterkit\resources\views/index.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('layouts.vertical', ['subtitle' => 'Dashboard'], array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH F:\Personal Projects\Infotech\Cake Academy\cake\resources\views/index.blade.php ENDPATH**/ ?>

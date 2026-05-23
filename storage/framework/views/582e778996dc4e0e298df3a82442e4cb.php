@@ -10,4 +10,4 @@
             </div>
         </div>
     </div>
-</footer><?php /**PATH F:\Personal Projects\admin-starterkit\resources\views/layouts/partials/footer.blade.php ENDPATH**/ ?>
+</footer><?php /**PATH F:\Personal Projects\Infotech\Cake Academy\cake\resources\views/layouts/partials/footer.blade.php ENDPATH**/ ?>

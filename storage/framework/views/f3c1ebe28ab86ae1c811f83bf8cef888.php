@@ -8,4 +8,4 @@
             </ol>
         </div>
     </div>
-</div><?php /**PATH F:\Personal Projects\admin-starterkit\resources\views/layouts/partials/page-title.blade.php ENDPATH**/ ?>
+</div><?php /**PATH F:\Personal Projects\Infotech\Cake Academy\cake\resources\views/layouts/partials/page-title.blade.php ENDPATH**/ ?>

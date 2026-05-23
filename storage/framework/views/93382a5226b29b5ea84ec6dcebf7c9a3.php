@@ -33,4 +33,4 @@
 
 </body>
 
-</html><?php /**PATH F:\Personal Projects\admin-starterkit\resources\views/layouts/vertical.blade.php ENDPATH**/ ?>
+</html><?php /**PATH F:\Personal Projects\Infotech\Cake Academy\cake\resources\views/layouts/vertical.blade.php ENDPATH**/ ?>

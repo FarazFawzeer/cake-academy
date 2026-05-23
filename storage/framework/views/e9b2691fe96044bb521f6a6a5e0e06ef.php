@@ -78,4 +78,4 @@
         </ul>
     </div>
 </div>
-<?php /**PATH F:\Personal Projects\admin-starterkit\resources\views/layouts/partials/sidebar.blade.php ENDPATH**/ ?>
+<?php /**PATH F:\Personal Projects\Infotech\Cake Academy\cake\resources\views/layouts/partials/sidebar.blade.php ENDPATH**/ ?>

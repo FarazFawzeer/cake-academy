@@ -9,4 +9,4 @@
 <meta name="theme-color" content="#ffffff">
 
 <!-- App favicon -->
-<link rel="shortcut icon" href="/images/favicon.png"><?php /**PATH F:\Personal Projects\admin-starterkit\resources\views/layouts/partials/title-meta.blade.php ENDPATH**/ ?>
+<link rel="shortcut icon" href="/images/favicon.png"><?php /**PATH F:\Personal Projects\Infotech\Cake Academy\cake\resources\views/layouts/partials/title-meta.blade.php ENDPATH**/ ?>
